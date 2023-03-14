@@ -70,3 +70,7 @@ urlopen.open (options, function (error, response) {
 
 hm.response.set ('Content-Type', 'application/json');
 ```
+
+## InvokeREST_MPG Policy Postman
+
+![mpg-policy](/images/ibm-datapower-mpg-invoke-postman.png)
