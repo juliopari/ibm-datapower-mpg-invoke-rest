@@ -27,16 +27,16 @@
 ![mpg-policy](/images/ibm-datapower-mpg-invoke-policy.png)
 
 ```
-var hm 			= require ('header-metadata');
-var urlopen 	= require ('urlopen');
-var sm 			= require ('service-metadata');
+var hm = require ('header-metadata');
+var urlopen = require ('urlopen');
+var sm = require ('service-metadata');
 
 var url_target = sm.getVar('var://service/routing-url');
 
 const options = {
-    target          : url_target,
-    method          : 'get',
-	contentType     : 'application/json',
+    target : url_target,
+    method : 'get',
+	contentType : 'application/json',
 };
 
 // open connection to target and send data over
