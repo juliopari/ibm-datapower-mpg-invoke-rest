@@ -8,7 +8,7 @@
 ![mpg-policy](/images/ibm-datapower-mpg-invoke-policy.png)
 
 ## InvokeREST_MPG Policy Match Rule
-![mpg-policy](/images/ibm-datapower-mpg-invoke-policy.png)
+![mpg-policy](/images/ibm-datapower-mpg-invoke-policy-match-rule.png)
 
 ## InvokeREST_MPG Policy Set Variable: service/mpgw/skip-backside
 - Variable Name: service/mpgw/skip-backside

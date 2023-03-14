@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "c236efe9-5ee1-4a5b-b7a9-3e4652ba9bd8",
+		"name": "datapower-mpg-invoke-rest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3256611"
+	},
+	"item": [
+		{
+			"name": "invoke-rest",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:7020/httpbin",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7020",
+					"path": [
+						"httpbin"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
